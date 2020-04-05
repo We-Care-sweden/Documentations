@@ -18,3 +18,7 @@ The analysed data are published to a repository by country ([example](https://gi
 
 We need a geo locations file for post code for every targeted country.
 One [repository](https://github.com/covidmap-sweden/geo-locations) is hosting all the geo-location data.
+
+
+## Privacy Preserving Protocol
+To trace contacted people, we use a privacy preserving protocol explained in [Traceing-protocol](https://github.com/covidmap-sweden/welcome/blob/master/Privacy%20preserving%20protocol.pdf).
