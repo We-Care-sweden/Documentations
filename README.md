@@ -22,3 +22,6 @@ One [repository](https://github.com/covidmap-sweden/geo-locations) is hosting al
 
 ## Privacy Preserving Protocol
 To trace contacted people, we use a privacy preserving protocol explained in [Traceing-protocol](https://github.com/covidmap-sweden/welcome/blob/master/Privacy%20preserving%20protocol.pdf).
+
+## Privacy Legislation
+[Here](https://github.com/covidmap-sweden/welcome/blob/master/Privacy%20legislation.pdf)
